@@ -1,2 +1,2 @@
-# go-transcoding-server
+# go-transcoding
 Golang 使用ffmpeg的视频转码、加文字水印、加字幕.
