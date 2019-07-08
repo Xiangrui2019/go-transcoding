@@ -1,2 +1,2 @@
 # go-transcoding-server
-Go使用ffmepg+httprouter实现的简单转码服务器.
+Golang 使用ffmpeg的视频转码、加文字水印、加字幕.
